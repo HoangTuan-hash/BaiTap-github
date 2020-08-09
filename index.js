@@ -6,3 +6,7 @@ var functionTest = function () {
 var functionDev = function () {
     console.log('devBranch');
 }
+
+var functionDeploy = function() {
+    console.log('deployBranch')
+}
