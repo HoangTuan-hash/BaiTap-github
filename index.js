@@ -10,3 +10,6 @@ var functionDev = function () {
 var functionDeploy = function() {
     console.log('deployBranch')
 }
+var testCompleted = function(){
+    console.log('testComplete');
+}
