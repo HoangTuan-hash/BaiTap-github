@@ -1,9 +1,7 @@
 console.log('Master');
-<<<<<<< HEAD
-var functionTest = function(){
+var functionTest = function () {
     console.log('testBranch');
-=======
-var functionDev = function(){
+}
+var functionDev = function () {
     console.log('devBranch');
->>>>>>> dev
 }
